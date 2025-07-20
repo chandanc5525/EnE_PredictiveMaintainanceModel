@@ -2,16 +2,12 @@
 
 ## Problem Definition
 
-```Predictive maintenance is a critical task in modern industrial operations. 
-Unplanned equipment failures can result in significant downtime, increased costs, and lost productivity. 
-The goal of this project is to develop a machine learning model that can predict whether a machine is likely to fail in the near future based on historical sensor and operational data.  
-This enables organizations to perform maintenance proactively and avoid unexpected breakdowns.```
+```Predictive maintenance is a critical task in modern industrial operations.Unplanned equipment failures can result in significant downtime, increased costs, and lost productivity. The goal of this project is to develop a machine learning model that can predict whether a machine is likely to fail in the near future based on historical sensor and operational data.This enables organizations to perform maintenance proactively and avoid unexpected breakdowns.```
 
 ---
 
 ## Objective
-```
-- Build an end-to-end **MLOps-ready pipeline** for predictive maintenance.
+```- Build an end-to-end **MLOps-ready pipeline** for predictive maintenance.
 - Preprocess raw data including handling of numeric and categorical features.
 - Train a robust classifier to predict machine failure.
 - Incorporate **hyperparameter tuning** to optimize model performance.
@@ -21,15 +17,7 @@ This enables organizations to perform maintenance proactively and avoid unexpect
 ---
 
 ## Model Performance
-
-T```The RandomForestClassifier was trained on the historical dataset with preprocessing and hyperparameter tuning.  
-The best model achieved the following performance on the test dataset:
-- **Accuracy:** 0.91
-- **Best Parameters:**  
-  - `n_estimators`: 200
-  - `max_depth`: 10
-
-All experiments, parameters, and metrics are logged and can be reviewed in the MLflow tracking dashboard.```
+```The RandomForestClassifier was trained on the historical dataset with preprocessing and hyperparameter tuning.All experiments, parameters, and metrics are logged and can be reviewed in the MLflow tracking dashboard.```
 
 ---
 
