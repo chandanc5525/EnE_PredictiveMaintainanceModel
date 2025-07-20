@@ -7,12 +7,12 @@
 ---
 
 ## Objective
-```- Build an end-to-end **MLOps-ready pipeline** for predictive maintenance.```
-```- Preprocess raw data including handling of numeric and categorical features.``
-```- Train a robust classifier to predict machine failure.```
-```- Incorporate **hyperparameter tuning** to optimize model performance.```
-```- Track experiments and metrics systematically using **MLflow**.```
-```- Containerize the solution using **Docker** for deployment readiness.```
+- Build an end-to-end **MLOps-ready pipeline** for predictive maintenance.
+- Preprocess raw data including handling of numeric and categorical features.
+- Train a robust classifier to predict machine failure.
+- Incorporate **hyperparameter tuning** to optimize model performance.
+- Track experiments and metrics systematically using **MLflow**.
+- Containerize the solution using **Docker** for deployment readiness.
 
 ---
 
