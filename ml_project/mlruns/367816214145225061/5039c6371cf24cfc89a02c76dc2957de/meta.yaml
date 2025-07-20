@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/EnE_PredictiveMaintainanceModel/ml_project/mlruns/367816214145225061/5039c6371cf24cfc89a02c76dc2957de/artifacts
+end_time: 1753004519066
+entry_point_name: ''
+experiment_id: '367816214145225061'
+lifecycle_stage: active
+run_id: 5039c6371cf24cfc89a02c76dc2957de
+run_name: learned-owl-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753003833563
+status: 3
+tags: []
+user_id: CHANDAN

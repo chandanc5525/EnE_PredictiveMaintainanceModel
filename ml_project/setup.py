@@ -9,5 +9,5 @@ setup(
     author_email="chaudhari.chandan22@gmail.com",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
-    install_requires=["pandas", "scikit-learn", "joblib", "mlflow","matplotlib","seaborn"],
+    install_requires=["pandas", "scikit-learn", "joblib", "mlflow","matplotlib","seaborn","loguru","pycaret"],
 )

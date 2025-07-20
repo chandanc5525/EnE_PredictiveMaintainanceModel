@@ -1,0 +1,10 @@
+artifact_location: file:///C:/EnE_PredictiveMaintainanceModel/ml_project/mlruns/367816214145225061/models/m-6d840a65220c4fad86ff9425b0a0156a/artifacts
+creation_timestamp: 1753004511495
+experiment_id: '367816214145225061'
+last_updated_timestamp: 1753004518954
+model_id: m-6d840a65220c4fad86ff9425b0a0156a
+model_type: null
+name: model
+source_run_id: 5039c6371cf24cfc89a02c76dc2957de
+status: 2
+status_message: null

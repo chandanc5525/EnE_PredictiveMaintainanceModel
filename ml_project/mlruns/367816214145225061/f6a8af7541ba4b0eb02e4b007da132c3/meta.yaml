@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/EnE_PredictiveMaintainanceModel/ml_project/mlruns/367816214145225061/f6a8af7541ba4b0eb02e4b007da132c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '367816214145225061'
+lifecycle_stage: active
+run_id: f6a8af7541ba4b0eb02e4b007da132c3
+run_name: adaptable-cod-325
+run_uuid: f6a8af7541ba4b0eb02e4b007da132c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753001661071
+status: 1
+tags: []
+user_id: CHANDAN
