@@ -1,5 +1,6 @@
 ## Setup.py file for versioning
 
+```python
 from pathlib import Path
 
 def generate_setup_py():
@@ -25,7 +26,9 @@ setup(
 '''
 
     Path("setup.py").write_text(content)
+
     print("setup.py generated!")
 
 if __name__ == "__main__":
+    
     generate_setup_py()
