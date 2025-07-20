@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/EnE_PredictiveMaintainanceModel/ml_project/mlruns/165351895320864201/263a6715edc841528ed3c4c845773478/artifacts
+end_time: 1752988441338
+entry_point_name: ''
+experiment_id: '165351895320864201'
+lifecycle_stage: active
+run_id: 263a6715edc841528ed3c4c845773478
+run_name: rogue-carp-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752988441306
+status: 4
+tags: []
+user_id: CHANDAN

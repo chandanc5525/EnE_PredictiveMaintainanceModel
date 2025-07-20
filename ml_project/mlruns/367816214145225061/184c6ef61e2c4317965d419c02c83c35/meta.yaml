@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/EnE_PredictiveMaintainanceModel/ml_project/mlruns/367816214145225061/184c6ef61e2c4317965d419c02c83c35/artifacts
+end_time: 1752988772010
+entry_point_name: ''
+experiment_id: '367816214145225061'
+lifecycle_stage: active
+run_id: 184c6ef61e2c4317965d419c02c83c35
+run_name: mercurial-bat-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752988753257
+status: 3
+tags: []
+user_id: CHANDAN
