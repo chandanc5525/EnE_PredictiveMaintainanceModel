@@ -1,3 +1,14 @@
+## run training pipeline mode model 
+```python -m src.pipeline.training_pipeline```
+
+## run prediction pipeline model 
+```python -m src.pipeline.prediction_pipeline```
+
+
+## use mlflow:
+```mlflow ui```
+
+
 ## Setup.py file for versioning
 
 ```python
@@ -32,3 +43,9 @@ setup(
 if __name__ == "__main__":
     
     generate_setup_py()
+
+
+
+
+
+
