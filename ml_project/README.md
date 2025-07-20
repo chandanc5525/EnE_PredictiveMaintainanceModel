@@ -1,11 +1,11 @@
-## run training pipeline mode model 
+## Run training pipeline mode model 
 ```python -m src.pipeline.training_pipeline```
 
-## run prediction pipeline model 
+## Run prediction pipeline model 
 ```python -m src.pipeline.prediction_pipeline```
 
 
-## use mlflow:
+## Use mlflow:
 ```mlflow ui```
 
 
